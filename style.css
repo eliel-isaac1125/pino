@@ -1,0 +1,21 @@
+#app{
+    background-color:gold;
+}
+#game{
+    background-color:rgb(109, 226, 14);
+}
+body{
+    text-align:center;
+}
+#mycarousel{
+    background-color:rgba(1, 119, 255, 0.542);
+}
+#mycarousel img{
+    height: 290px;
+    margin-top:35px;
+}
+.carousel-inner p{
+    margin-top:15px;
+    color: rgba(0, 255, 4, 0.723);
+    font-size:20px;
+}
